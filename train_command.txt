@@ -1,0 +1,1 @@
+!python train.py --data data/custom_dataset_wandb.yaml --epochs 30 --project tm470_custom_model --bbox_interval 1 --save_period 1 --weights yolov5s.pt 
